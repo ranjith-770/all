@@ -1,4 +1,4 @@
-/* body{  
+ /* body{   
    
     background-image: url(../CM\ image.jpeg); 
     background-repeat: no-repeat; 
@@ -9,35 +9,35 @@
     width: 1250px;
     box-sizing: border-box;
     outline: 10px dashed rgb(6, 240, 68);
-} */
+}  */
 
-    /* External Selector */
-/* p{ 
+    /* /* External Selector */
+ p{ 
     color: yellow;
     background-color: violet;
-} */
+} 
 
      /* Universal Selector */
-/* *{ 
+*{ 
     color: teal;
     background-color: tan;
- } */
+ }
 
        /* Id Selector */
-   /* #inter{  
+   #inter{  
     color: springgreen;
-   }  */
+   } 
 
       /* Class Selector */
-  /* .inner h2,h4{ 
+  .inner h2,h4{ 
     color: violet;
-  } */
+  }
 
 
       /* Descendent Sector */
-  /* #one > h1{ 
+  #one > h1{ 
     color: tomato;
-   } */
+   }
 
   
 
@@ -49,12 +49,12 @@
     color: rgba(45, 142, 240, 0.9);
     color: hsl(299, 90%, 35%);
     color: hsla(15,100%,70%,0.7);
-   } */
+   } 
 
         /* Back Groumd Color */
-   /* *{ 
+    /* *{ 
     background-color: rgb(255, 255, 1);
-   } */
+   }  */
 
 
           /* Back Grond Image */
@@ -64,7 +64,5 @@
     background-attachment: fixed;
     background-size: cover;
     background-position-x: center;
-    } */
-
-
-
+    } 
+ */ 

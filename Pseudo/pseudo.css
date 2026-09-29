@@ -1,0 +1,28 @@
+/* button:hover{
+    background-color: yellow;
+    color: brown;
+    border-radius: 10px;
+} */
+
+
+
+/* button:focus{
+    border: 2px solid red;
+} */
+
+
+/* .one:first-child{
+    color: blueviolet;
+}
+.two:first-child{
+    color: blue;
+}
+:last-child{
+    color: chartreuse;  
+} */
+
+
+/* :checked */
+.button:checked{
+    outline: 2px solid red;
+}
